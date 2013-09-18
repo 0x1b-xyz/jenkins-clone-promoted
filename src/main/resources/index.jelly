@@ -1,0 +1,4 @@
+<div>
+    Provides an "action" used by the Promoted Builds plugin that will clone and checkout the branch
+    that was promoted by the promotion plugin.
+</div>
